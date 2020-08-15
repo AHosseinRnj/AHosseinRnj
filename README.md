@@ -1,6 +1,6 @@
 ### Hi there, I'm Amir 👋
 
-[![Telegram](https://img.shields.io/badge/Telegram-Contact%20Me-2CA5E0?style=for-the-badge&logo=telegram)](https://telegram.me/AmirHossein_Rnj_01)
+[![Telegram](https://img.shields.io/badge/Telegram-DM-2CA5E0?style=for-the-badge&logo=telegram)](https://telegram.me/AmirHossein_Rnj_01)
 [![Twitter Follow](https://img.shields.io/twitter/follow/AmirHosseinR_01?color=1DA1F2&logo=Twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=AmirHosseinR_01)
 
 
