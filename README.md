@@ -37,7 +37,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="AHosseinRnj's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AHosseinRnj&show_icons=true&title_color=68bb13&icon_color=68bb13" />
+  <img align="left" alt="AHosseinRnj's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AHosseinRnj&show_icons=true&title_color=68bb13&icon_color=68bb13&hide_border=true" />
 
 </details>
 
