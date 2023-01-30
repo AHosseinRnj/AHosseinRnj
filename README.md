@@ -20,7 +20,7 @@
 <img align="left" alt="Visual Studio Code" width="35px" src="https://img.icons8.com/color/512/visual-studio-code-2019.png" />
 <img align="left" alt="Visual Studio" width="35px" src="https://img.icons8.com/color/512/visual-studio--v2.png" />
 <img align="left" alt="Unity" width="35px" src="https://img.icons8.com/fluency/512/unity.png" />
-<img align="left" alt="SQL Server" width="35px" src="https://img.icons8.com/color/512/microsoft-sql-server.png" />
+<img align="left" alt="SQL Server" width="35px" src="https://img001.prntscr.com/file/img001/FtBHQfdXRk6nGVzIffz93w.png" />
 <img align="left" alt="HTML5" width="35px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/512/external-html-5-is-a-software-solution-stack-that-defines-the-properties-and-behaviors-of-web-page-logo-color-tal-revivo.png" />
 <img align="left" alt="CSS3" width="35px" src="https://img001.prntscr.com/file/img001/ECVFXZ7pTuuphj1GFlDRiA.png" />
 <img align="left" alt="JS" width="35px" src="https://img001.prntscr.com/file/img001/7mCcrtKtTJKNgIOOD8S90w.png" />
@@ -36,12 +36,13 @@
 
 <details>
   <summary>:rocket: Github Stats</summary>
-
+  <br />
   <img style="display:block;" alt="AHosseinRnj's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AHosseinRnj&show_icons=true&hide_border=true&theme=tokyonight" />
 </details>
 
 <details>
-    <summary>:zap: Top Languages</summary>
+  <summary>:zap: Top Languages</summary>
+  <br />
   <img style="display:block;" alt="AHosseinRnj's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AHosseinRnj&layout=compact&hide_border=true&theme=tokyonight" />
 </details>
 
