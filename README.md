@@ -28,10 +28,8 @@
 <img align="left" alt="C#" width="35px" src="https://img.icons8.com/color/512/c-sharp-logo-2.png" />
 <img align="left" alt="Python" width="35px" src="https://img.icons8.com/fluency/512/python.png" />
 <img align="left" alt="Git" width="35px" src="https://img.icons8.com/color/512/git.png" />
-<img align="left" alt="GitHub" width="35px" src="https://img.icons8.com/color/512/github--v1.png" />
+<img style="display:block;" alt="GitHub" width="35px" src="https://img.icons8.com/color/512/github--v1.png" />
 
-
-<br />
 <br />
 
 <details>
